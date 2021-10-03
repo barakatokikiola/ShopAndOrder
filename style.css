@@ -96,7 +96,7 @@ body {
     font-size: 30px;
     font-weight: 900;
     text-transform: uppercase;
-    line-height: 50px;
+    line-height: 40px;
     color: #fff;
     text-align: center;
     text-shadow: 2px 2px 8px #111;
@@ -168,11 +168,11 @@ body {
     }
     .box-square {
         width: calc(25% - 20px) !important;
-        background-color: bisque !important;
+        background-color: #7D7B85FC !important;
     }
     .box-rectangle {
         width: calc(50% - 20px) !important;
-        background-color: aquamarine !important;
+        background-color: #51486BFC !important;
     }
     .index-links div h3 {
         line-height: 150px;
